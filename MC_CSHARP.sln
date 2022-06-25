@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC_CSHARP", "MC_CSHARP\MC_CSHARP.csproj", "{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Debug|x64.ActiveCfg = Debug|x64
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Debug|x64.Build.0 = Debug|x64
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Release|x64.ActiveCfg = Release|x64
+		{BE1BEC4E-0E17-423D-B141-F09E7AD25B52}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B15846AC-B7DB-47DB-9CFD-83C498CEA1AF}
+	EndGlobalSection
+EndGlobal
