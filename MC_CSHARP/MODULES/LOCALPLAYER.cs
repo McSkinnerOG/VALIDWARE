@@ -9,15 +9,10 @@ namespace MC_CSHARP.MODULES
 {
     public class LOCALPLAYER
     {
-
-
-
-
         public static byte isFlying
         {
             get { return (byte)MainForm.m.ReadByte(POINTER.LP_IsFlying); }
             set { MainForm.m.WriteMemory(POINTER.LP_IsFlying, "byte", "1"); }
         }
-
     }
 }
